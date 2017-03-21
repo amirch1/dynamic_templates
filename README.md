@@ -1,4 +1,6 @@
-# Tags
+# Angular 2 - Dynamic template for nested components
+
+[Demo](https://amirch1.github.io/dynamic_templates)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
