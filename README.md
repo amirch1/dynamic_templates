@@ -1,7 +1,7 @@
 # Angular 2 - Dynamic template for nested components
 
 This project demonstrates how to pass a template as a parameter to a nested component.
-##See the [Demo](https://amirch1.github.io/dynamic_templates)
+## Demo is [here](https://amirch1.github.io/dynamic_templates)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
