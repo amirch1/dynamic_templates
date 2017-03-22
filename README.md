@@ -4,6 +4,7 @@ This project demonstrates how to pass a template as a parameter to a nested comp
 ## Demo 
 See it in action [here](https://amirch1.github.io/dynamic_templates).
 
+## Project notes
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
 ## Development server
