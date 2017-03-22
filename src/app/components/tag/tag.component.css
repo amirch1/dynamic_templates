@@ -1,0 +1,13 @@
+.tag{
+    background-color: yellow;
+    padding:8px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    height: 24px;
+    color: black;
+    font-family: Arial;
+    font-size: 12px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+}

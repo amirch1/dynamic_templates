@@ -1,3 +1,11 @@
-<h1>
-  {{title}}
-</h1>
+<p>
+    <app-tags [tagsData]="tags"></app-tags>
+</p>
+
+<p>
+    <app-tags [tagsData]="tags">
+        <template let-tag="tag">
+            <button style="margin-right: 12px">{{tag}}</button>
+        </template>  
+    </app-tags>
+</p>

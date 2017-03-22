@@ -1,0 +1,12 @@
+<div [ngSwitch]="!!template">
+	<div *ngSwitchCase="true">
+		<!-- CUSTOM TEMPLATE -->
+		<template
+			[ngOutletContext]="{tag: tagLabel}"
+			[ngTemplateOutlet]="template">
+		</template>
+	</div>
+    <div *ngSwitchCase="false">
+        <div class="tag">{{tagLabel}}</div>
+    </div>
+</div>
