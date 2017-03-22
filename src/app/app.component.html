@@ -1,11 +1,13 @@
-<p>
+<div>
+    <span>Default template:</span>
     <app-tags [tagsData]="tags"></app-tags>
-</p>
+</div>
 
-<p>
+<div style="margin-top: 20px">
+    <span>Dynamic template:</span>
     <app-tags [tagsData]="tags">
         <template let-tag="tag">
             <button style="margin-right: 12px">{{tag}}</button>
         </template>  
     </app-tags>
-</p>
+</div>
